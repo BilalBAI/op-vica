@@ -159,10 +159,14 @@ def run_stats(results: dict, date='2024-07-01'):
     for h in results.keys():
         for i in results[h]['logistic_regression'].keys():
             for j in results[h]['logistic_regression'][i].keys():
+                # remove na and run Centrality_statistics
+                log_reg_eff = results[h]['logistic_regression'][i][j]
                 stats = Centrality_statistics(
-                    results[h]['logistic_regression'][i][j])
+                    log_reg_eff[~np.isnan(log_reg_eff)])
+                # convert from R to Py DataFrame
                 pandas2ri.activate()
                 temp = pandas2ri.rpy2py(stats)
+                # lable and concat to df_stats
                 temp['Entity'] = h
                 temp['Scenario_Type'] = i
                 temp['Regression_Type'] = j
