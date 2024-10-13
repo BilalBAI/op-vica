@@ -1,0 +1,198 @@
+,vote_type,proposal_id,title,proposal_choice,voting_power
+0,citizen_house,0x14336dfcb086279e47ef8fffbd6282984d392f1b9eaf22f76547210df6451c43,Protocol Upgrade #9: Veto #9,FOR,50.0
+1,citizen_house,0x1552e2685f2f4560d9af1f69cba056d5a3e5b78ee356b780c3b94f0bee691c11,Test Veto Vote,AGAINST,34.0
+2,citizen_house,0x21f7126c1636cecdcf7522eadbf6e1b20ca22a2230faf871209fcd21dc999d81,Protocol Upgrade #8: Veto #7,FOR,39.0
+3,citizen_house,0x2bc6565053b73813c6b0a001c8c07eb5656234b4d8bae12ba6541250993d1d25,Protocol Upgrade #6: Veto #4,FOR,38.0
+4,citizen_house,0x34d2d612621f475962f9dfaaf2b0763438f5263c923fad529deefdd3fd34b9af,Test Vote (Season 6),Test Option A,13.0
+5,citizen_house,0x34d2d612621f475962f9dfaaf2b0763438f5263c923fad529deefdd3fd34b9af,Test Vote (Season 6),Test Option B,6.0
+6,citizen_house,0x3c45ddb959dcab99231e29cafad668e58c99040b5c64910676a2ace022a1ce6a,Governor Upgrade #1: Improve advanced delegation voting,FOR,29.0
+7,citizen_house,0x6efd678a37dd547f40956fb613047ffc077c234b7723298419ca54f40b8531de,Voting Cycle #17: Veto #1 ,AGAINST,2.0
+8,citizen_house,0x8c157e9d2718a572626ad8443c494fae5986bd467dcce1c6ed088dff5531dc2f,Protocol Upgrade #5: Veto #3,FOR,39.0
+9,citizen_house,0x9e85524badfcec19856bfc51cfefc78cb5f36a9b77ec0b3b304d7d7768bdf810,Voting Cycle #18: Veto #2 ,FOR,30.0
+10,citizen_house,0xb0c109d7f68d3cb1054a50f55556d1820e517129b4b53774cb9ca32e0eabe3a4,Protocol Upgrade #10: Veto #10,FOR,33.0
+11,citizen_house,0xcbf088e409279ca2e1dbe78f513067dd20caa4d2d2481a3f96ab8aa16620e0de,Governor Update Proposal #2: Improvements to advanced delegation allowance calculations: Veto #8,FOR,36.0
+12,citizen_house,0xcbf088e409279ca2e1dbe78f513067dd20caa4d2d2481a3f96ab8aa16620e0de,Governor Update Proposal #2: Improvements to advanced delegation allowance calculations: Veto #8,AGAINST,1.0
+13,citizen_house,0xe2d86afceea73f2e2734550bec73af395b78826413fb3622b57dce43b2fd7b94,Protocol Upgrade #7: Veto #6,FOR,39.0
+14,citizen_house,0xff9fcfd224f44cdcb6e8118cc5909e1376044d4e2640b2d671697b656b3211a1,Ratification of Round 4 Profit Definition,AGAINST,34.0
+15,citizen_house,0xff9fcfd224f44cdcb6e8118cc5909e1376044d4e2640b2d671697b656b3211a1,Ratification of Round 4 Profit Definition,FOR,20.0
+16,token_house,0x17601371c6aadaa722657e950291a5f6e5234f57a307732a96756403eb8e4fea,Proposal to Reclassify Grant Misusage Enforcement,FOR,43920582.30724965
+17,token_house,0x17601371c6aadaa722657e950291a5f6e5234f57a307732a96756403eb8e4fea,Proposal to Reclassify Grant Misusage Enforcement,AGAINST,3478180.3483878835
+18,token_house,0x17601371c6aadaa722657e950291a5f6e5234f57a307732a96756403eb8e4fea,Proposal to Reclassify Grant Misusage Enforcement,ABSTAIN,203536.26047662934
+19,token_house,0x19a2da2d8ff4395fd4eb3d3d082b858b8b07e4ec1bf3c52d530f69aa7516d4ed,Season 5 Intent Budgets,FOR,46933567.417587325
+20,token_house,0x19a2da2d8ff4395fd4eb3d3d082b858b8b07e4ec1bf3c52d530f69aa7516d4ed,Season 5 Intent Budgets,AGAINST,83512.2836050892
+21,token_house,0x19a2da2d8ff4395fd4eb3d3d082b858b8b07e4ec1bf3c52d530f69aa7516d4ed,Season 5 Intent Budgets,ABSTAIN,14035.452117559029
+22,token_house,0x1e2a974ba016f6d36825e3edb5fa310d88b3b583b0c1b097037613f044d0cc78,Grants Council Reviewer Elections: Builders,MULTIPLE,47198314.449798726
+23,token_house,0x1e2a974ba016f6d36825e3edb5fa310d88b3b583b0c1b097037613f044d0cc78,Grants Council Reviewer Elections: Builders,FOR,105102.04450718491
+24,token_house,0x1f4338f7dae5ad24c0bed8e42661d3707ceba13baa1fa7294286aba72c8210c9,Developer Advisory Board Elections,MULTIPLE,43467923.9334743
+25,token_house,0x1f4338f7dae5ad24c0bed8e42661d3707ceba13baa1fa7294286aba72c8210c9,Developer Advisory Board Elections,ABSTAIN,1283917.1786883355
+26,token_house,0x2019cb810c28f359e8db064d16f798972dc0c19a9e617f1af490469314934e29,N/A,FOR,240394.68317328385
+27,token_house,0x24c6270fdfbff0fd27222e88ecdbf6a2f025760bcb15e558fe690e033599ebfa,"Intent #4, 3M OP",MULTIPLE,24629283.376176603
+28,token_house,0x24c6270fdfbff0fd27222e88ecdbf6a2f025760bcb15e558fe690e033599ebfa,"Intent #4, 3M OP",FOR,235145.81758116581
+29,token_house,0x27bfb12fc19c0ccc7d393f5082ac1e072d7052d4ff67d814465b758626cff9e4,N/A,MULTIPLE,401311.4848096545
+30,token_house,0x27bfb12fc19c0ccc7d393f5082ac1e072d7052d4ff67d814465b758626cff9e4,N/A,FOR,0.0
+31,token_house,0x2bfc0f5199d0c81b71dca39dd75e1dd7a04eb0f12e3ba71e705d3d60342e434b,Upgrade Proposal #9: Fjord Network Upgrade ,FOR,54702172.177237324
+32,token_house,0x2bfc0f5199d0c81b71dca39dd75e1dd7a04eb0f12e3ba71e705d3d60342e434b,Upgrade Proposal #9: Fjord Network Upgrade ,ABSTAIN,2088.646018268607
+33,token_house,0x2bfc0f5199d0c81b71dca39dd75e1dd7a04eb0f12e3ba71e705d3d60342e434b,Upgrade Proposal #9: Fjord Network Upgrade ,AGAINST,1264.1260494585342
+34,token_house,0x2cf0c2bc83621bfd0219af06232effce84b623fcb8c93147c19c4dd40aa5bd37,Upgrade #2: Canyon Protocol Upgrade,FOR,48699635.930551186
+35,token_house,0x2cf0c2bc83621bfd0219af06232effce84b623fcb8c93147c19c4dd40aa5bd37,Upgrade #2: Canyon Protocol Upgrade,ABSTAIN,16021.584670634524
+36,token_house,0x2cf0c2bc83621bfd0219af06232effce84b623fcb8c93147c19c4dd40aa5bd37,Upgrade #2: Canyon Protocol Upgrade,AGAINST,12215.209035813863
+37,token_house,0x317eabd9e74b21985e60d2b202db579eef7279d87578e34dcea10910006c2d9f,Anticapture Commission,FOR,43577109.46267541
+38,token_house,0x317eabd9e74b21985e60d2b202db579eef7279d87578e34dcea10910006c2d9f,Anticapture Commission,AGAINST,2538822.0710371174
+39,token_house,0x317eabd9e74b21985e60d2b202db579eef7279d87578e34dcea10910006c2d9f,Anticapture Commission,ABSTAIN,287585.7896327937
+40,token_house,0x338174303a8655cd2d5f5df3979cb408d150e9e634d13963ed6a97c95f597d2f,Season 6: Grants Council Operating Budget ,FOR,48833678.24212
+41,token_house,0x338174303a8655cd2d5f5df3979cb408d150e9e634d13963ed6a97c95f597d2f,Season 6: Grants Council Operating Budget ,ABSTAIN,1207587.7032373406
+42,token_house,0x338174303a8655cd2d5f5df3979cb408d150e9e634d13963ed6a97c95f597d2f,Season 6: Grants Council Operating Budget ,AGAINST,152503.1130869371
+43,token_house,0x344714ee9e2aa675f29cef29eb9ed2b63a94ba2804b55450e0d44fd1964e87e9,Chain Delegation Program,FOR,43439059.00400382
+44,token_house,0x344714ee9e2aa675f29cef29eb9ed2b63a94ba2804b55450e0d44fd1964e87e9,Chain Delegation Program,ABSTAIN,2533373.707550721
+45,token_house,0x344714ee9e2aa675f29cef29eb9ed2b63a94ba2804b55450e0d44fd1964e87e9,Chain Delegation Program,AGAINST,162265.1211748727
+46,token_house,0x380da54ff1c33222f84ff06b274b7e988b95e1cb80c2c675009027960a421465,Code of Conduct Violation: Carlos Melgar,ABSTAIN,27080684.7233773
+47,token_house,0x380da54ff1c33222f84ff06b274b7e988b95e1cb80c2c675009027960a421465,Code of Conduct Violation: Carlos Melgar,AGAINST,15216557.165632907
+48,token_house,0x380da54ff1c33222f84ff06b274b7e988b95e1cb80c2c675009027960a421465,Code of Conduct Violation: Carlos Melgar,FOR,2250417.3066406273
+49,token_house,0x393794828149a722498eb15c82f7314edfcae0a1ea78c8740f904b6a40a95ab8,Grants Council Reviewer Elections: Audit Reviewer,MULTIPLE,43311107.596834205
+50,token_house,0x393794828149a722498eb15c82f7314edfcae0a1ea78c8740f904b6a40a95ab8,Grants Council Reviewer Elections: Audit Reviewer,ABSTAIN,1239525.3761024547
+51,token_house,0x3bad7fcad987c30f1327902ea3a29b8ea52ca358846c6c01feb3a85155044e37,Code of Conduct Council Budget,FOR,41722208.19862246
+52,token_house,0x3bad7fcad987c30f1327902ea3a29b8ea52ca358846c6c01feb3a85155044e37,Code of Conduct Council Budget,AGAINST,2415000.400178855
+53,token_house,0x3bad7fcad987c30f1327902ea3a29b8ea52ca358846c6c01feb3a85155044e37,Code of Conduct Council Budget,ABSTAIN,289774.6758702964
+54,token_house,0x3caa763c751e06b1641ecbb9b2591822e776323174f6ff89ce80d2ff71db0659,Security Council: Vote #1,FOR,46176532.35167562
+55,token_house,0x3caa763c751e06b1641ecbb9b2591822e776323174f6ff89ce80d2ff71db0659,Security Council: Vote #1,AGAINST,49919.40390461898
+56,token_house,0x3caa763c751e06b1641ecbb9b2591822e776323174f6ff89ce80d2ff71db0659,Security Council: Vote #1,ABSTAIN,24767.490208663414
+57,token_house,0x3d8243fb687fb6da57965d03542dd489a708787bd352912c9db2955aef1c17fa,N/A,FOR,2979.9029547144596
+58,token_house,0x3d8243fb687fb6da57965d03542dd489a708787bd352912c9db2955aef1c17fa,N/A,ABSTAIN,19.52075896245297
+59,token_house,0x3da27e3dab53e76845ba930b141b8b6549358a4d3405056be1350596509c44fa,"Delegate Suspension: Fractal Visions - All Optimism Delegates are bound by the delegate code of conduct (https://gov.optimism.io/t/delegate-code-of-conduct/3943.) Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote. - This Delegate Suspension Proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710 // Note: the approval threshold for this proposal is 51%, or 20424975 OP. The value displayed by the frontend may differ.",FOR,19044205.067966297
+60,token_house,0x3da27e3dab53e76845ba930b141b8b6549358a4d3405056be1350596509c44fa,"Delegate Suspension: Fractal Visions - All Optimism Delegates are bound by the delegate code of conduct (https://gov.optimism.io/t/delegate-code-of-conduct/3943.) Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote. - This Delegate Suspension Proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710 // Note: the approval threshold for this proposal is 51%, or 20424975 OP. The value displayed by the frontend may differ.",ABSTAIN,6253787.504842005
+61,token_house,0x3da27e3dab53e76845ba930b141b8b6549358a4d3405056be1350596509c44fa,"Delegate Suspension: Fractal Visions - All Optimism Delegates are bound by the delegate code of conduct (https://gov.optimism.io/t/delegate-code-of-conduct/3943.) Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote. - This Delegate Suspension Proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710 // Note: the approval threshold for this proposal is 51%, or 20424975 OP. The value displayed by the frontend may differ.",AGAINST,15104.662432923264
+62,token_house,0x3f3bc08d05d9bde20f495e76334daeeda34ce94ed656704186693a3f2dbaa790,N/A,FOR,0.0
+63,token_house,0x3f7d983067c635b12a9bdacb0718c76d687080082b1771160026bf156f33c134,"Mission Requests: Intent #3, 1.33M OP",MULTIPLE,46062444.16987231
+64,token_house,0x3f7d983067c635b12a9bdacb0718c76d687080082b1771160026bf156f33c134,"Mission Requests: Intent #3, 1.33M OP",ABSTAIN,1462192.5463716127
+65,token_house,0x41f3bf9cb86cc1ed39f28ad1e77f9c41ce974cbf18d51739a736d9f65b4a201f,Treasury Appropriation (Foundation Year 2 Budget Approval),FOR,14213749.790442603
+66,token_house,0x41f3bf9cb86cc1ed39f28ad1e77f9c41ce974cbf18d51739a736d9f65b4a201f,Treasury Appropriation (Foundation Year 2 Budget Approval),AGAINST,5325002.384805931
+67,token_house,0x41f3bf9cb86cc1ed39f28ad1e77f9c41ce974cbf18d51739a736d9f65b4a201f,Treasury Appropriation (Foundation Year 2 Budget Approval),ABSTAIN,1706274.115616474
+68,token_house,0x48e4c186faf2efa6b0f18040818777c1258d2a724dc679577543b9650974260c,Intent #2 - Council Intent Budget Proposal,FOR,25810609.02697631
+69,token_house,0x48e4c186faf2efa6b0f18040818777c1258d2a724dc679577543b9650974260c,Intent #2 - Council Intent Budget Proposal,AGAINST,18618.580908524917
+70,token_house,0x48e4c186faf2efa6b0f18040818777c1258d2a724dc679577543b9650974260c,Intent #2 - Council Intent Budget Proposal,ABSTAIN,6316.13204959401
+71,token_house,0x49e71edbeb3d77bfe19d65afa1bedd430d224afaafafe6cca6aaf88b295cbf27,N/A,FOR,23.858251338890707
+72,token_house,0x6005a288bccdfa70cd2b84d290fd4c2b140e17d448c7e1c88490929e2c8cf7cc,N/A,FOR,1175331.0350128566
+73,token_house,0x6005a288bccdfa70cd2b84d290fd4c2b140e17d448c7e1c88490929e2c8cf7cc,N/A,ABSTAIN,370.53364673195983
+74,token_house,0x60bb747db6046b03c387dfb6902674ea6c216cf0aeaa2b98cfce303c801e81e7,N/A,MULTIPLE,73.0655615792231
+75,token_house,0x635554023a863381f45a2cd05c6c765c702b6098b00fce62c79fd70220371a9,Council Reviewer Elections: Builders Grants,MULTIPLE,19550751.716870543
+76,token_house,0x635554023a863381f45a2cd05c6c765c702b6098b00fce62c79fd70220371a9,Council Reviewer Elections: Builders Grants,FOR,1462139.0585462938
+77,token_house,0x671b57c4aa67daeed2fc83fa8a2c35cd332e34728a71a4531e77886361266775,N/A,FOR,210.0
+78,token_house,0x672a186e185b3fe64851e6de14b0f50e71c4d8d4b51c2ad89d4ed3281ecc65ed,Season 6: Intents Ratification ,FOR,49553005.1377162
+79,token_house,0x672a186e185b3fe64851e6de14b0f50e71c4d8d4b51c2ad89d4ed3281ecc65ed,Season 6: Intents Ratification ,ABSTAIN,1023572.3737697876
+80,token_house,0x672a186e185b3fe64851e6de14b0f50e71c4d8d4b51c2ad89d4ed3281ecc65ed,Season 6: Intents Ratification ,AGAINST,60547.17333588988
+81,token_house,0x675ef0457f81fd4213b3dceb3105eef7e3463bdc2e5ff9079f5d7d25ec4548ea,Intent 2 Budget Proposal 2,FOR,20633863.932772156
+82,token_house,0x675ef0457f81fd4213b3dceb3105eef7e3463bdc2e5ff9079f5d7d25ec4548ea,Intent 2 Budget Proposal 2,ABSTAIN,7203148.398258547
+83,token_house,0x675ef0457f81fd4213b3dceb3105eef7e3463bdc2e5ff9079f5d7d25ec4548ea,Intent 2 Budget Proposal 2,AGAINST,48603.850948756306
+84,token_house,0x685fa3271eec5781469f98ccff22e21dacd387d200be6f56286dfcdb9fcc36e7,N/A,MULTIPLE,44259.10599675262
+85,token_house,0x685fa3271eec5781469f98ccff22e21dacd387d200be6f56286dfcdb9fcc36e7,N/A,FOR,4203.981263271296
+86,token_house,0x6878507b65a7acd702e6591e59ef619136ba342734d0ff58b3e16f4e139253c3,Protocol Upgrade #6: Multi-Chain Prep (MCP) L1,FOR,35280182.27842879
+87,token_house,0x6878507b65a7acd702e6591e59ef619136ba342734d0ff58b3e16f4e139253c3,Protocol Upgrade #6: Multi-Chain Prep (MCP) L1,ABSTAIN,4806224.9500197815
+88,token_house,0x6878507b65a7acd702e6591e59ef619136ba342734d0ff58b3e16f4e139253c3,Protocol Upgrade #6: Multi-Chain Prep (MCP) L1,AGAINST,4132.643255467712
+89,token_house,0x687a893ab4a927fff63693cd1748e8e5282332b6af49b879a99907f535f5034f,Governor Update Proposal #2: Improvements to advanced delegation allowance calculations ,FOR,60710372.952075355
+90,token_house,0x687a893ab4a927fff63693cd1748e8e5282332b6af49b879a99907f535f5034f,Governor Update Proposal #2: Improvements to advanced delegation allowance calculations ,AGAINST,5165.368156496252
+91,token_house,0x687a893ab4a927fff63693cd1748e8e5282332b6af49b879a99907f535f5034f,Governor Update Proposal #2: Improvements to advanced delegation allowance calculations ,ABSTAIN,3703.4087236563837
+92,token_house,0x69d246389a656b17e19533dbab9da90ceee9721bbe97c473df22487f52643422,Grants Council Operating Budget,FOR,45942464.55836123
+93,token_house,0x69d246389a656b17e19533dbab9da90ceee9721bbe97c473df22487f52643422,Grants Council Operating Budget,ABSTAIN,252043.1057230619
+94,token_house,0x69d246389a656b17e19533dbab9da90ceee9721bbe97c473df22487f52643422,Grants Council Operating Budget,AGAINST,62511.092040249154
+95,token_house,0x7262d92efbcd6e91341699994814715b5e39d7ec83df1823b65763f974131e50,Intent #1 Budget Proposal,FOR,25856260.691016957
+96,token_house,0x7262d92efbcd6e91341699994814715b5e39d7ec83df1823b65763f974131e50,Intent #1 Budget Proposal,AGAINST,37389.96970005633
+97,token_house,0x7262d92efbcd6e91341699994814715b5e39d7ec83df1823b65763f974131e50,Intent #1 Budget Proposal,ABSTAIN,6574.0939401914
+98,token_house,0x7eb68ec6e81b16258b3b42f1f101fb1f81dd83db2935ffeda9ff2858cf6cb984,N/A,MULTIPLE,0.0
+99,token_house,0x8946f0e5eb8434f1ee2af7c8ffe25a03b778ca9f41425eeb2c3658c77297a5f8,N/A,FOR,2979.9029547144596
+100,token_house,0x8cf62e3c8c437a59542142b673bc48f8a2e74fa76f3453c24a4a0da468a0445a,Governor Upgrade #1: Improve advanced delegation voting ,FOR,54315284.90088786
+101,token_house,0x8cf62e3c8c437a59542142b673bc48f8a2e74fa76f3453c24a4a0da468a0445a,Governor Upgrade #1: Improve advanced delegation voting ,ABSTAIN,1666.6221137996881
+102,token_house,0x8cf62e3c8c437a59542142b673bc48f8a2e74fa76f3453c24a4a0da468a0445a,Governor Upgrade #1: Improve advanced delegation voting ,AGAINST,1629.4860186245937
+103,token_house,0x8e0ef7186de24e53b5c525f0d768a98a98a552c43493bfa2557fa5bc1a09749a,Anticapture Commission Amendment ,FOR,44537674.24498373
+104,token_house,0x8e0ef7186de24e53b5c525f0d768a98a98a552c43493bfa2557fa5bc1a09749a,Anticapture Commission Amendment ,ABSTAIN,96802.06856856441
+105,token_house,0x8e0ef7186de24e53b5c525f0d768a98a98a552c43493bfa2557fa5bc1a09749a,Anticapture Commission Amendment ,AGAINST,2010.303055885024
+106,token_house,0x8f665a94bc7a0e44adb40c3a5d1bc8abfb6610ad6b2311fc63cb573fa1c4a48c,Upgrade Proposal #3: Delta Network Upgrade ,FOR,47973168.65157966
+107,token_house,0x8f665a94bc7a0e44adb40c3a5d1bc8abfb6610ad6b2311fc63cb573fa1c4a48c,Upgrade Proposal #3: Delta Network Upgrade ,AGAINST,17442.55720272951
+108,token_house,0x8f665a94bc7a0e44adb40c3a5d1bc8abfb6610ad6b2311fc63cb573fa1c4a48c,Upgrade Proposal #3: Delta Network Upgrade ,ABSTAIN,4944.826909433364
+109,token_house,0x8f8d61f0ecdce5f225b5bca821a2d5155563f2d42eb25b2aa763ee286018ea35,Protocol Delegation Program Renewal,FOR,22272075.52686199
+110,token_house,0x8f8d61f0ecdce5f225b5bca821a2d5155563f2d42eb25b2aa763ee286018ea35,Protocol Delegation Program Renewal,AGAINST,2574961.7706548115
+111,token_house,0x8f8d61f0ecdce5f225b5bca821a2d5155563f2d42eb25b2aa763ee286018ea35,Protocol Delegation Program Renewal,ABSTAIN,843166.620618008
+112,token_house,0x94b959f09cc691b5a4667e0af047662e40bc88b3e25927e5991a34790a78018e,Developer Advisory Board Budget,FOR,45214690.322773784
+113,token_house,0x94b959f09cc691b5a4667e0af047662e40bc88b3e25927e5991a34790a78018e,Developer Advisory Board Budget,AGAINST,116945.32631821041
+114,token_house,0x94b959f09cc691b5a4667e0af047662e40bc88b3e25927e5991a34790a78018e,Developer Advisory Board Budget,ABSTAIN,36263.796900691144
+115,token_house,0x94e6812c6aaf0fddcf20f9d171ea9a5261dace638a5990a685393700f6ba409,N/A,ABSTAIN,19.52075896245297
+116,token_house,0x94e6812c6aaf0fddcf20f9d171ea9a5261dace638a5990a685393700f6ba409,N/A,MULTIPLE,0.0
+117,token_house,0x9d68e5069947350fed589fef7665cc2d1bd3f1c4cb6ed112179b2cabfb35019a,N/A,FOR,1158950.8952398058
+118,token_house,0x9f5ec2b7845a9785403aa707794c8f9eacfd267410ec4470ffc54f3a9ff0a248,Protocol Upgrade #7: Fault Proofs ,FOR,58401924.529657066
+119,token_house,0x9f5ec2b7845a9785403aa707794c8f9eacfd267410ec4470ffc54f3a9ff0a248,Protocol Upgrade #7: Fault Proofs ,ABSTAIN,2203327.2106085327
+120,token_house,0x9f5ec2b7845a9785403aa707794c8f9eacfd267410ec4470ffc54f3a9ff0a248,Protocol Upgrade #7: Fault Proofs ,AGAINST,143925.32040684778
+121,token_house,0xa08495ad72118509acf0ba20234df1b84ca49d718cc60a3b4c5c808a4f82d43,Season 6: Intent Budgets ,FOR,48485008.936064065
+122,token_house,0xa08495ad72118509acf0ba20234df1b84ca49d718cc60a3b4c5c808a4f82d43,Season 6: Intent Budgets ,ABSTAIN,1048676.6968627328
+123,token_house,0xa08495ad72118509acf0ba20234df1b84ca49d718cc60a3b4c5c808a4f82d43,Season 6: Intent Budgets ,AGAINST,717554.3460101713
+124,token_house,0xa16d206002099314daf54cdb756bcdda644a9ec13cd24a5fd1ab81123e460d44,"Mission Requests: Intent #2, 4M OP",MULTIPLE,46225838.040203914
+125,token_house,0xa16d206002099314daf54cdb756bcdda644a9ec13cd24a5fd1ab81123e460d44,"Mission Requests: Intent #2, 4M OP",ABSTAIN,1363392.2151241745
+126,token_house,0xa64818d3e9470589ddf88506461f6133361e560c4ef28a1afdc62ddfe8ea005c,Grants Council Reviewer Elections: Milestones and Metrics Reviewer,MULTIPLE,44596964.39129591
+127,token_house,0xa64818d3e9470589ddf88506461f6133361e560c4ef28a1afdc62ddfe8ea005c,Grants Council Reviewer Elections: Milestones and Metrics Reviewer,ABSTAIN,359931.1126421077
+128,token_house,0xa8afaa008329a1e333f9eefaca8707e078874a814d27fff12e1e12cd22fe77fb,"Intent #3, 1M OP",MULTIPLE,24426303.53478304
+129,token_house,0xa8afaa008329a1e333f9eefaca8707e078874a814d27fff12e1e12cd22fe77fb,"Intent #3, 1M OP",FOR,333728.80813036265
+130,token_house,0xaeff1f46ef68f7a63019c0e663837b9a246b82537e247c154b0fc917217b11a3,Season 5 : Intents Budget Proposal #2 ,FOR,38314130.7186318
+131,token_house,0xaeff1f46ef68f7a63019c0e663837b9a246b82537e247c154b0fc917217b11a3,Season 5 : Intents Budget Proposal #2 ,ABSTAIN,5868851.318378491
+132,token_house,0xaeff1f46ef68f7a63019c0e663837b9a246b82537e247c154b0fc917217b11a3,Season 5 : Intents Budget Proposal #2 ,AGAINST,41426.00974248648
+133,token_house,0xb30a804c4ed62220d6c1f9587d516e80fd0a93eca39b1218af2e22258c57cf0e,Inflation Adjustment Proposal,FOR,20019692.19368688
+134,token_house,0xb30a804c4ed62220d6c1f9587d516e80fd0a93eca39b1218af2e22258c57cf0e,Inflation Adjustment Proposal,ABSTAIN,2233747.670863586
+135,token_house,0xb30a804c4ed62220d6c1f9587d516e80fd0a93eca39b1218af2e22258c57cf0e,Inflation Adjustment Proposal,AGAINST,53772.67161308952
+136,token_house,0xb3cd97f4a18967ee4a65a38fb9d83cec4475ece97f73b0e8acdb1176804b0a34,Grants Council Reviewer Elections: Mission Reviewer,MULTIPLE,45210691.3026974
+137,token_house,0xb3cd97f4a18967ee4a65a38fb9d83cec4475ece97f73b0e8acdb1176804b0a34,Grants Council Reviewer Elections: Mission Reviewer,ABSTAIN,90808.40150836438
+138,token_house,0xbc5e83062afbcfec3ba6d8085cb4a03769967940cb89e498ff6b32d3f58b1495,N/A,AGAINST,107.67718007543512
+139,token_house,0xbd3b1e941ba55abb2ac45bedf019f46183875f767eb80b57bdb5e492f61d2838,Ratify Security Council Members,FOR,36691970.60885238
+140,token_house,0xbd3b1e941ba55abb2ac45bedf019f46183875f767eb80b57bdb5e492f61d2838,Ratify Security Council Members,ABSTAIN,12949489.512850292
+141,token_house,0xbd3b1e941ba55abb2ac45bedf019f46183875f767eb80b57bdb5e492f61d2838,Ratify Security Council Members,AGAINST,40794.807948689195
+142,token_house,0xc1216a4fa19b0addbdbfc74ed236d929d57bb526a6692140bf0b10ffa089251b,Grants Council Reviewer Elections: Growth Experiments,MULTIPLE,46018218.22380253
+143,token_house,0xc1216a4fa19b0addbdbfc74ed236d929d57bb526a6692140bf0b10ffa089251b,Grants Council Reviewer Elections: Growth Experiments,FOR,84576.91542827476
+144,token_house,0xc24e7e9572b7b5040bcf6f41f15fa9757ade6851d33fff0eca1ba528197474f8,"Mission Requests: Intent #4, 1.33M OP",MULTIPLE,46578471.12446003
+145,token_house,0xc24e7e9572b7b5040bcf6f41f15fa9757ade6851d33fff0eca1ba528197474f8,"Mission Requests: Intent #4, 1.33M OP",ABSTAIN,1430079.5569973853
+146,token_house,0xc403054ba21d76964535677a116d7bb7fc7504299afbd7e989f188c64f1b7500,Season 6: V2. Code of Conduct Council Renewal ,FOR,33413369.185783505
+147,token_house,0xc403054ba21d76964535677a116d7bb7fc7504299afbd7e989f188c64f1b7500,Season 6: V2. Code of Conduct Council Renewal ,AGAINST,7708754.538324634
+148,token_house,0xc403054ba21d76964535677a116d7bb7fc7504299afbd7e989f188c64f1b7500,Season 6: V2. Code of Conduct Council Renewal ,ABSTAIN,3610229.1197112263
+149,token_house,0xc4e94c26ff2d409fc1e9d8259fe334e4d380e57a1bde121f452bf99fb58890e9,"Intent #1, 1M OP",MULTIPLE,24560616.55338541
+150,token_house,0xc4e94c26ff2d409fc1e9d8259fe334e4d380e57a1bde121f452bf99fb58890e9,"Intent #1, 1M OP",FOR,24858.98800317183
+151,token_house,0xc552034a4f772bffa9e260bae919a21f8107d9eb8002d61f91df0358cc5959b2,Protocol Upgrade #8: Changes for Stage 1 Decentralization ,FOR,60420527.51061389
+152,token_house,0xc552034a4f772bffa9e260bae919a21f8107d9eb8002d61f91df0358cc5959b2,Protocol Upgrade #8: Changes for Stage 1 Decentralization ,ABSTAIN,152455.579336762
+153,token_house,0xc552034a4f772bffa9e260bae919a21f8107d9eb8002d61f91df0358cc5959b2,Protocol Upgrade #8: Changes for Stage 1 Decentralization ,AGAINST,146233.9624813261
+154,token_house,0xc7cb526487e6533e94540e72e8d0253413296138947def6cee7a7fa0c14ff649,Chain Delegation Program Amendment,FOR,41497035.21079198
+155,token_house,0xc7cb526487e6533e94540e72e8d0253413296138947def6cee7a7fa0c14ff649,Chain Delegation Program Amendment,AGAINST,3421823.2758773183
+156,token_house,0xc7cb526487e6533e94540e72e8d0253413296138947def6cee7a7fa0c14ff649,Chain Delegation Program Amendment,ABSTAIN,68631.06566298901
+157,token_house,0xcb4168482f6b1fdb6520fadec254756aadb637248aaa70cb5a6a0ec743566da5,N/A,ABSTAIN,0.0
+158,token_house,0xd0a12732df932b7d57941844ee15edafba9cd19b692e71968080ad797b8e51a2,Intent #3 Budget Proposal,FOR,23852012.87837348
+159,token_house,0xd0a12732df932b7d57941844ee15edafba9cd19b692e71968080ad797b8e51a2,Intent #3 Budget Proposal,ABSTAIN,1950325.061076355
+160,token_house,0xd0a12732df932b7d57941844ee15edafba9cd19b692e71968080ad797b8e51a2,Intent #3 Budget Proposal,AGAINST,19240.791224877117
+161,token_house,0xd2422ed37ad164e9b27cf56fc9f5ebb7ee63d90e8f55b9b50860278889d29a9b,Ratify Developer Advisory Board Members,FOR,44927873.42834448
+162,token_house,0xd2422ed37ad164e9b27cf56fc9f5ebb7ee63d90e8f55b9b50860278889d29a9b,Ratify Developer Advisory Board Members,ABSTAIN,368927.81515622936
+163,token_house,0xd2422ed37ad164e9b27cf56fc9f5ebb7ee63d90e8f55b9b50860278889d29a9b,Ratify Developer Advisory Board Members,AGAINST,45286.50082399037
+164,token_house,0xd24bd76ee6d343d42bb2fef2f14576758120b808faa56d60f89dff2a6ae23012,Protocol Upgrade #5: Ecotone Network Upgrade,FOR,39153089.08186296
+165,token_house,0xd24bd76ee6d343d42bb2fef2f14576758120b808faa56d60f89dff2a6ae23012,Protocol Upgrade #5: Ecotone Network Upgrade,ABSTAIN,3555.546128561958
+166,token_house,0xd24bd76ee6d343d42bb2fef2f14576758120b808faa56d60f89dff2a6ae23012,Protocol Upgrade #5: Ecotone Network Upgrade,AGAINST,2121.6345803995873
+167,token_house,0xd6296c0903b6ea4866d47aefdcccee6c1de3c8e9497035484cf2fcd5ea53d530,Grants Council Reviewer Elections: Milestones and Metrics,MULTIPLE,47106930.570793115
+168,token_house,0xd6296c0903b6ea4866d47aefdcccee6c1de3c8e9497035484cf2fcd5ea53d530,Grants Council Reviewer Elections: Milestones and Metrics,FOR,1321845.9314533651
+169,token_house,0xd9b161566dbe492da028239fa7e9e467a6e8115867eebad2c1392bf60f666606,"Mission Requests: Intent #1, 1.33M OP",MULTIPLE,46259941.10978711
+170,token_house,0xd9b161566dbe492da028239fa7e9e467a6e8115867eebad2c1392bf60f666606,"Mission Requests: Intent #1, 1.33M OP",ABSTAIN,1387109.5804757322
+171,token_house,0xe3533064b31cdadc005b68e327239e0611c09cad6c049932e4125dc1ccb7a56e,Code of Conduct Council: Member Nominations,MULTIPLE,46277195.750280105
+172,token_house,0xe3533064b31cdadc005b68e327239e0611c09cad6c049932e4125dc1ccb7a56e,Code of Conduct Council: Member Nominations,FOR,1564906.3711041433
+173,token_house,0xe50f250eed689783da7eab4b13a2c7e0dddb32dee9f3185872903a17a70e120c,N/A,FOR,8272364.3142507905
+174,token_house,0xe50f250eed689783da7eab4b13a2c7e0dddb32dee9f3185872903a17a70e120c,N/A,ABSTAIN,1642587.1833205812
+175,token_house,0xe50f250eed689783da7eab4b13a2c7e0dddb32dee9f3185872903a17a70e120c,N/A,AGAINST,125585.89585173706
+176,token_house,0xe5417959a9ff425cf1d98efd135c7228c93e1f2dcbd0a390dbf68072fc202bd6,Intent #4 Budget Proposal,FOR,25880281.97244366
+177,token_house,0xe5417959a9ff425cf1d98efd135c7228c93e1f2dcbd0a390dbf68072fc202bd6,Intent #4 Budget Proposal,AGAINST,17370.562418144746
+178,token_house,0xe5417959a9ff425cf1d98efd135c7228c93e1f2dcbd0a390dbf68072fc202bd6,Intent #4 Budget Proposal,ABSTAIN,6935.442918291236
+179,token_house,0xe54be6ef97d4a431528c5cbec4a4262bb452dfac643e3f791b09e87b45d21149,Council Reviewer Elections: Growth Experiments Grants,MULTIPLE,20602772.73778389
+180,token_house,0xe54be6ef97d4a431528c5cbec4a4262bb452dfac643e3f791b09e87b45d21149,Council Reviewer Elections: Growth Experiments Grants,FOR,591757.1389035019
+181,token_house,0xe8572792333594c9fd0d6a999d1a4fa219b8b74aee92852b1c8fb3737abc9284,Season 6: Code of Conduct Council Renewal ,AGAINST,29821545.00739087
+182,token_house,0xe8572792333594c9fd0d6a999d1a4fa219b8b74aee92852b1c8fb3737abc9284,Season 6: Code of Conduct Council Renewal ,FOR,17007275.35404612
+183,token_house,0xe8572792333594c9fd0d6a999d1a4fa219b8b74aee92852b1c8fb3737abc9284,Season 6: Code of Conduct Council Renewal ,ABSTAIN,3487066.530234317
+184,token_house,0xf406de6376a7bd43a121f7b43a4829015141f19320a763577f1d02fadda64dd3,Protocol Upgrade #4,FOR,58164731.85347259
+185,token_house,0xf406de6376a7bd43a121f7b43a4829015141f19320a763577f1d02fadda64dd3,Protocol Upgrade #4,ABSTAIN,19929.6766903984
+186,token_house,0xf406de6376a7bd43a121f7b43a4829015141f19320a763577f1d02fadda64dd3,Protocol Upgrade #4,AGAINST,1822.5403360863681
+187,token_house,0xf6bbd7578f817fa7d14504fa2deb139e6766159017fd2758063c122864f6255,Season 6: Developer Advisory Board Renewal ,MULTIPLE,46192066.90877097
+188,token_house,0xf6bbd7578f817fa7d14504fa2deb139e6766159017fd2758063c122864f6255,Season 6: Developer Advisory Board Renewal ,ABSTAIN,4114237.733559497
+189,token_house,0xf7b8df466dc6097819a7ed1040edcb1f287ddffed8cda4d25626777c554c2415,Ratification of Law of Chains,FOR,45777548.941897854
+190,token_house,0xf7b8df466dc6097819a7ed1040edcb1f287ddffed8cda4d25626777c554c2415,Ratification of Law of Chains,AGAINST,53852.67059707005
+191,token_house,0xf7b8df466dc6097819a7ed1040edcb1f287ddffed8cda4d25626777c554c2415,Ratification of Law of Chains,ABSTAIN,16249.45159727817
+192,token_house,0xf9879f213ef52e98b15f898fb713f7ad904e3c1f9849078814c5f5ae036204d7,N/A,MULTIPLE,210.0
+193,token_house,0xfcbdfa5f9001690110b73742781d9706a7641f09ba0dc7237315fe368ad46e0e,Summary of Code of Conduct enforcement decisions,AGAINST,2046807.8678072141
+194,token_house,0xfda855a8f29cbc6680a52ccb5c3a570dcdcceee45f7406e0c1dd039d7521ba19,"Upgrade Proposal: Bedrock - This proposal outlines the Optimism Collective’s first Protocol upgrade of Optimism Mainnet to the Bedrock release. This upgrade aims to provide unprecedented modularity, simplicity, and Ethereum equivalence to the L2 network, with positive impacts on performance and security. Bedrock is the codebase which will help Optimism stand the test of time, and is also preparatory step towards the multi-chain future. - This Protocol Upgrade proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/final-upgrade-proposal-bedrock-v2/5548",FOR,27944934.77384539
+195,token_house,0xfda855a8f29cbc6680a52ccb5c3a570dcdcceee45f7406e0c1dd039d7521ba19,"Upgrade Proposal: Bedrock - This proposal outlines the Optimism Collective’s first Protocol upgrade of Optimism Mainnet to the Bedrock release. This upgrade aims to provide unprecedented modularity, simplicity, and Ethereum equivalence to the L2 network, with positive impacts on performance and security. Bedrock is the codebase which will help Optimism stand the test of time, and is also preparatory step towards the multi-chain future. - This Protocol Upgrade proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/final-upgrade-proposal-bedrock-v2/5548",AGAINST,37216.79796791035
+196,token_house,0xfda855a8f29cbc6680a52ccb5c3a570dcdcceee45f7406e0c1dd039d7521ba19,"Upgrade Proposal: Bedrock - This proposal outlines the Optimism Collective’s first Protocol upgrade of Optimism Mainnet to the Bedrock release. This upgrade aims to provide unprecedented modularity, simplicity, and Ethereum equivalence to the L2 network, with positive impacts on performance and security. Bedrock is the codebase which will help Optimism stand the test of time, and is also preparatory step towards the multi-chain future. - This Protocol Upgrade proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/final-upgrade-proposal-bedrock-v2/5548",ABSTAIN,7656.757821531028

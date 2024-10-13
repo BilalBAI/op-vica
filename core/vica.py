@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 import random
 
-from data_processor import process_data
-
 import rpy2.robjects as ro
 import rpy2.robjects.pandas2ri as pandas2ri
 # Load R VICA modules
@@ -23,10 +21,9 @@ Centrality_statistics = ro.globalenv['Centrality_statistics']
 # ro.r('install.packages("", repos="https://cloud.r-project.org")')
 
 
-def process_data_and_convert_to_r():
-    print("-------- Process Data -------- ")
+def process_data_and_convert_to_r(df_token_house_top_200, df_citizen_house, df_summary):
+    print("-------- Process Data and Convert to R -------- ")
     # further process data and convert to r
-    df_token_house_top_200, df_citizen_house, df_summary = process_data()
     prop_token_t = df_token_house_top_200[df_token_house_top_200['voted_choice'].isin([
         'FOR', 'AGAINST'])]
     prop_cit_t = df_citizen_house[df_citizen_house['voted_choice'].isin([
@@ -65,8 +62,7 @@ def process_data_and_convert_to_r():
         voting_res_filter_final_t, prop_cit_filter_t)
     print('Success\n')
     return (prop_token_filter_t, prop_cit_filter_t,
-            prop_token_filter_add_t, prop_cit_filter_add_t,
-            df_token_house_top_200, df_citizen_house, df_summary)
+            prop_token_filter_add_t, prop_cit_filter_add_t)
 
 
 def run_vica_single(proposals_votes, proposals_votes_add):
