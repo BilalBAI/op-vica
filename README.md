@@ -14,32 +14,23 @@ Follow these steps to set up the environment:
 
 ### 1. **Create and Activate Virtual Environment** (Python 3.12)
 ```bash
-# Check the Python 3.12 path
+# Create the virtual environment with Python 3.12
 which python3.12
-
-# Create a virtual environment
 python3.12 -m venv op_env
 
 # Activate the virtual environment
-# On Windows:
+# Windows
 op_env\Scripts\activate
-
-# On macOS / Linux:
+# macOS / Linux
 source op_env/bin/activate
-```
 
-### 2. **Verify Python Version**
-```bash
+# Verify the Python version
 python --version
-```
 
-### 3. **Install Dependencies**
-```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
-### 4. **Deactivate Virtual Environment** (when done)
-```bash
+# Deactivate the virtual environment when done
 deactivate
 ```
 
@@ -65,6 +56,11 @@ install.packages("ineq")
 
 ---
 
+## **Data**
+Create a folder `raw_data` and save the Token house data in a csv format.
+Update RAW_DATA_DIR in `core/data_processor.py`.
+Raw data for token house currently reply on csv files, will migrate to API once available.
+
 ## **Environment Variables**
 Set the following environment variables in your `.env` file for API access:
 
@@ -77,8 +73,6 @@ OPSCAN_API_KEY=<your_ops_can_api_key>
 
 ## **Acknowledgements**
 
-We extend our deep gratitude to the **Optimism Collective** for their sponsorship and support of this research. Their backing was instrumental in enabling us to explore and analyze the governance mechanisms within the Collective.
+We extend our deep gratitude to the **Optimism Collective** for their sponsorship and support of this research. We would also like to thank **Emily** for her unwavering support and invaluable guidance throughout this project. Her insights were key in shaping both the direction and outcomes of this work.
 
-We would also like to thank **Emily** for her unwavering support and invaluable guidance throughout this project. Her insights were key in shaping both the direction and outcomes of this work.
-
-Additionally, we express our sincere thanks to **Varit** and the **curiaLab team** for their invaluable contributions, especially in providing critical data support whenever needed.
+We express our sincere thanks to **Varit** and the **curiaLab team** for their invaluable contributions, especially in providing critical data support whenever needed.

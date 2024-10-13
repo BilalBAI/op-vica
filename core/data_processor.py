@@ -8,7 +8,7 @@ CHOICE_MAPPING = {
     "AGAINST": ["Veto", "No, don't consider profit at all"]
 }
 
-# raw data currently reply on csv files, will migrate to API once available
+# raw data for token house currently reply on csv files, will migrate to API once available
 RAW_DATA_DIR = "../raw_data/2024-07-01_optimism_proposals_votes.csv"
 
 
