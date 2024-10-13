@@ -1,0 +1,85 @@
+Statistic,Value,Entity,Scenario_Type,Regression_Type,Date
+Variance,666.1567725196525,token_house,factual,logit_effect,2024-07-01
+Skewness,-0.19981310274298913,token_house,factual,logit_effect,2024-07-01
+Kurtosis,1.5444480427358727,token_house,factual,logit_effect,2024-07-01
+Gini Coefficient,0.6356138649516011,token_house,factual,logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.007304882737408697,token_house,factual,logit_effect,2024-07-01
+Entropy,0.0706205828707899,token_house,factual,logit_effect,2024-07-01
+CV,1.1448849382512085,token_house,factual,logit_effect,2024-07-01
+Variance,70.91911452878253,token_house,factual,adjusted_logit_effect,2024-07-01
+Skewness,-1.8387464502181055,token_house,factual,adjusted_logit_effect,2024-07-01
+Kurtosis,10.06722711648673,token_house,factual,adjusted_logit_effect,2024-07-01
+Gini Coefficient,0.168639615275702,token_house,factual,adjusted_logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.22231117342304038,token_house,factual,adjusted_logit_effect,2024-07-01
+Entropy,1.6230724691266833,token_house,factual,adjusted_logit_effect,2024-07-01
+CV,0.3824930272148894,token_house,factual,adjusted_logit_effect,2024-07-01
+Variance,674.3132018654316,token_house,counterfactual,logit_effect,2024-07-01
+Skewness,0.1551205929205598,token_house,counterfactual,logit_effect,2024-07-01
+Kurtosis,1.510833476150667,token_house,counterfactual,logit_effect,2024-07-01
+Gini Coefficient,-0.658646295035941,token_house,counterfactual,logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.00740099961553252,token_house,counterfactual,logit_effect,2024-07-01
+Entropy,0.07303326010199812,token_house,counterfactual,logit_effect,2024-07-01
+CV,-1.184904823746519,token_house,counterfactual,logit_effect,2024-07-01
+Variance,67.9411844456909,token_house,counterfactual,adjusted_logit_effect,2024-07-01
+Skewness,1.9317165340804807,token_house,counterfactual,adjusted_logit_effect,2024-07-01
+Kurtosis,10.128181916112691,token_house,counterfactual,adjusted_logit_effect,2024-07-01
+Gini Coefficient,-0.16796611631624567,token_house,counterfactual,adjusted_logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.22231117342304063,token_house,counterfactual,adjusted_logit_effect,2024-07-01
+Entropy,1.6230724691266833,token_house,counterfactual,adjusted_logit_effect,2024-07-01
+CV,-0.3835810943115651,token_house,counterfactual,adjusted_logit_effect,2024-07-01
+Variance,666.1567725196525,citizen_house,factual,logit_effect,2024-07-01
+Skewness,-0.19981310274298913,citizen_house,factual,logit_effect,2024-07-01
+Kurtosis,1.5444480427358727,citizen_house,factual,logit_effect,2024-07-01
+Gini Coefficient,0.6356138649516011,citizen_house,factual,logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.007304882737408697,citizen_house,factual,logit_effect,2024-07-01
+Entropy,0.0706205828707899,citizen_house,factual,logit_effect,2024-07-01
+CV,1.1448849382512085,citizen_house,factual,logit_effect,2024-07-01
+Variance,70.91911452878253,citizen_house,factual,adjusted_logit_effect,2024-07-01
+Skewness,-1.8387464502181055,citizen_house,factual,adjusted_logit_effect,2024-07-01
+Kurtosis,10.06722711648673,citizen_house,factual,adjusted_logit_effect,2024-07-01
+Gini Coefficient,0.168639615275702,citizen_house,factual,adjusted_logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.22231117342304038,citizen_house,factual,adjusted_logit_effect,2024-07-01
+Entropy,1.6230724691266833,citizen_house,factual,adjusted_logit_effect,2024-07-01
+CV,0.3824930272148894,citizen_house,factual,adjusted_logit_effect,2024-07-01
+Variance,674.3132018654316,citizen_house,counterfactual,logit_effect,2024-07-01
+Skewness,0.1551205929205598,citizen_house,counterfactual,logit_effect,2024-07-01
+Kurtosis,1.510833476150667,citizen_house,counterfactual,logit_effect,2024-07-01
+Gini Coefficient,-0.658646295035941,citizen_house,counterfactual,logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.00740099961553252,citizen_house,counterfactual,logit_effect,2024-07-01
+Entropy,0.07303326010199812,citizen_house,counterfactual,logit_effect,2024-07-01
+CV,-1.184904823746519,citizen_house,counterfactual,logit_effect,2024-07-01
+Variance,67.9411844456909,citizen_house,counterfactual,adjusted_logit_effect,2024-07-01
+Skewness,1.9317165340804807,citizen_house,counterfactual,adjusted_logit_effect,2024-07-01
+Kurtosis,10.128181916112691,citizen_house,counterfactual,adjusted_logit_effect,2024-07-01
+Gini Coefficient,-0.16796611631624567,citizen_house,counterfactual,adjusted_logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.22231117342304063,citizen_house,counterfactual,adjusted_logit_effect,2024-07-01
+Entropy,1.6230724691266833,citizen_house,counterfactual,adjusted_logit_effect,2024-07-01
+CV,-0.3835810943115651,citizen_house,counterfactual,adjusted_logit_effect,2024-07-01
+Variance,666.1567725196525,both_houses,factual,logit_effect,2024-07-01
+Skewness,-0.19981310274298913,both_houses,factual,logit_effect,2024-07-01
+Kurtosis,1.5444480427358727,both_houses,factual,logit_effect,2024-07-01
+Gini Coefficient,0.6356138649516011,both_houses,factual,logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.007304882737408697,both_houses,factual,logit_effect,2024-07-01
+Entropy,0.0706205828707899,both_houses,factual,logit_effect,2024-07-01
+CV,1.1448849382512085,both_houses,factual,logit_effect,2024-07-01
+Variance,70.91911452878253,both_houses,factual,adjusted_logit_effect,2024-07-01
+Skewness,-1.8387464502181055,both_houses,factual,adjusted_logit_effect,2024-07-01
+Kurtosis,10.06722711648673,both_houses,factual,adjusted_logit_effect,2024-07-01
+Gini Coefficient,0.168639615275702,both_houses,factual,adjusted_logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.22231117342304038,both_houses,factual,adjusted_logit_effect,2024-07-01
+Entropy,1.6230724691266833,both_houses,factual,adjusted_logit_effect,2024-07-01
+CV,0.3824930272148894,both_houses,factual,adjusted_logit_effect,2024-07-01
+Variance,674.3132018654316,both_houses,counterfactual,logit_effect,2024-07-01
+Skewness,0.1551205929205598,both_houses,counterfactual,logit_effect,2024-07-01
+Kurtosis,1.510833476150667,both_houses,counterfactual,logit_effect,2024-07-01
+Gini Coefficient,-0.658646295035941,both_houses,counterfactual,logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.00740099961553252,both_houses,counterfactual,logit_effect,2024-07-01
+Entropy,0.07303326010199812,both_houses,counterfactual,logit_effect,2024-07-01
+CV,-1.184904823746519,both_houses,counterfactual,logit_effect,2024-07-01
+Variance,67.9411844456909,both_houses,counterfactual,adjusted_logit_effect,2024-07-01
+Skewness,1.9317165340804807,both_houses,counterfactual,adjusted_logit_effect,2024-07-01
+Kurtosis,10.128181916112691,both_houses,counterfactual,adjusted_logit_effect,2024-07-01
+Gini Coefficient,-0.16796611631624567,both_houses,counterfactual,adjusted_logit_effect,2024-07-01
+Herfindahl-Hirschman Index,0.22231117342304063,both_houses,counterfactual,adjusted_logit_effect,2024-07-01
+Entropy,1.6230724691266833,both_houses,counterfactual,adjusted_logit_effect,2024-07-01
+CV,-0.3835810943115651,both_houses,counterfactual,adjusted_logit_effect,2024-07-01

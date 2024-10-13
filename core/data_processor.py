@@ -9,7 +9,7 @@ CHOICE_MAPPING = {
 }
 
 # raw data currently reply on csv files, will migrate to API once available
-RAW_DATA_DIR = "./raw_data/2024-07-01_optimism_proposals_votes.csv"
+RAW_DATA_DIR = "../raw_data/2024-07-01_optimism_proposals_votes.csv"
 
 
 def process_token_house_data(raw_data_dir=RAW_DATA_DIR):
