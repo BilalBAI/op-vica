@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import random
 
+from data_processor import process_data
+
 import rpy2.robjects as ro
 import rpy2.robjects.pandas2ri as pandas2ri
 # Load R VICA modules
@@ -156,9 +158,9 @@ def run_stats(results: dict, date='2024-07-01'):
 
     for h in results.keys():
         for i in results[h]['logistic_regression'].keys():
-            for j in results['token_house']['logistic_regression'][i].keys():
+            for j in results[h]['logistic_regression'][i].keys():
                 stats = Centrality_statistics(
-                    results['token_house']['logistic_regression'][i][j])
+                    results[h]['logistic_regression'][i][j])
                 pandas2ri.activate()
                 temp = pandas2ri.rpy2py(stats)
                 temp['Entity'] = h
@@ -170,12 +172,18 @@ def run_stats(results: dict, date='2024-07-01'):
 
 
 def run():
-    (prop_token_filter, prop_cit_filter, prop_token_filter_add, prop_cit_filter_add,
-     df_token_house_top_200, df_citizen_house, df_summary) = process_data_and_convert_to_r()
+    # Process from raw data (only if raw data has been updated)
+    df_token_house_top_200, df_citizen_house, df_summary = process_data()
 
+    # further process data and convert to R
+    (prop_token_filter, prop_cit_filter, prop_token_filter_add,
+     prop_cit_filter_add) = process_data_and_convert_to_r(df_token_house_top_200, df_citizen_house, df_summary)
+
+    # run VICA
     results_dict = run_vica_all(
         prop_token_filter, prop_cit_filter, prop_token_filter_add, prop_cit_filter_add)
 
+    # Get states
     df_stats = run_stats(results_dict)
 
     return results_dict, df_stats
