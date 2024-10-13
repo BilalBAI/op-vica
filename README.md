@@ -4,40 +4,12 @@
 
 This repository is part of an Optimism Foundation Mission Request: **Measuring the Concentration of Power within the Collective**.
 
+A [Dune Dashboard]() has been created to visualize the results from VICA. It will be maintained and updated regularly.
+
 ## **Project Overview**
 The Voting Influence and Concentration Analysis (VICA) is a systematic approach to estimating the voting bloc's marginal influence on voting outcomes and measuring the degree of concentration in the voting system. This method, specifically tailored for the Optimism Collective, leverages logistic regression, counterfactual analysis, and data augmentation to deliver a robust and comprehensive understanding of each voting bloc's explicit and implicit influence on the voting process.
 
 For more details, please read the project report.
-
----
-
-## **Dune Dashboard**
-We have built a Dune Dashboard for public use. The Dashboard will be maintained and updated regularly.
-
-## **Setup**
-Follow these steps to set up the environment:
-
-### 1. **Create and Activate Virtual Environment** (Python 3.12)
-```bash
-# Create the virtual environment with Python 3.12
-which python3.12
-python3.12 -m venv op_env
-
-# Activate the virtual environment
-# Windows
-op_env\Scripts\activate
-# macOS / Linux
-source op_env/bin/activate
-
-# Verify the Python version
-python --version
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Deactivate the virtual environment when done
-deactivate
-```
 
 ---
 
@@ -73,6 +45,36 @@ Set the following environment variables in your `.env` file for API access:
 DUNE_API_KEY=<your_dune_api_key>
 OPSCAN_API_KEY=<your_ops_can_api_key>
 ```
+
+---
+
+## **Setup**
+Follow these steps to set up the environment:
+
+### 1. **Create and Activate Virtual Environment** (Python 3.12)
+```bash
+# Create the virtual environment with Python 3.12
+which python3.12
+python3.12 -m venv op_env
+
+# Activate the virtual environment
+# Windows
+op_env\Scripts\activate
+# macOS / Linux
+source op_env/bin/activate
+
+# Verify the Python version
+python --version
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Deactivate the virtual environment when done
+deactivate
+```
+
+### 2. **Run**
+Use `core/run.ipynb` to run, explore, and expirement with the model.
 
 ---
 
