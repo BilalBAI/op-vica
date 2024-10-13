@@ -78,6 +78,11 @@ Use `core/run.ipynb` to run, explore, and expirement with the model.
 
 ---
 
+## **Contributors**
+* [Bilal Bai](https://github.com/BilalBAI)
+* [Yujie Yang](https://github.com/Yyj-pep-xavi)
+
+
 ## **Acknowledgements**
 
 We extend our deep gratitude to the **Optimism Collective** for their sponsorship and support of this research. We would also like to thank **Emily** for her unwavering support and invaluable guidance throughout this project. Her insights were key in shaping both the direction and outcomes of this work.
