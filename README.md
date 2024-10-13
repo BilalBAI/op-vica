@@ -5,9 +5,14 @@
 This repository is part of an Optimism Foundation Mission Request: **Measuring the Concentration of Power within the Collective**.
 
 ## **Project Overview**
-This project aims to analyze the governance structures of the Optimism Collective by measuring the concentration of voting power, applying the Voting Influence and Concentration Analysis (VICA) methodology.
+The Voting Influence and Concentration Analysis (VICA) is a systematic approach to estimating the voting bloc's marginal influence on voting outcomes and measuring the degree of concentration in the voting system. This method, specifically tailored for the Optimism Collective, leverages logistic regression, counterfactual analysis, and data augmentation to deliver a robust and comprehensive understanding of each voting bloc's explicit and implicit influence on the voting process.
+
+For more details, please read the project report.
 
 ---
+
+## **Dune Dashboard**
+We have built a Dune Dashboard for public use. The Dashboard will be maintained and updated regularly.
 
 ## **Setup**
 Follow these steps to set up the environment:
