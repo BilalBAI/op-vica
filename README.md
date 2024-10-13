@@ -1,5 +1,5 @@
 
-# **op-mica**
+# **op-vica**
 **Voting Influence and Concentration Analysis (VICA) for the Optimism Collective**
 
 This repository is part of an Optimism Foundation Mission Request: **Measuring the Concentration of Power within the Collective**.
