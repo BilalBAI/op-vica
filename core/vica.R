@@ -361,7 +361,7 @@ Centrality_statistics <- function(data) {
   hhi_value <- sum((table(data) / length(data))^2)
   
   # 计算熵 (Entropy)
-  entropy_value <- entropy(table(data))
+  entropy_value <- entropy.empirical(table(data))
   
   #计算变异系数
   CV <- sd(data)/mean(data)
