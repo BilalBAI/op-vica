@@ -152,6 +152,25 @@ def run_vica_all(prop_token_filter, prop_cit_filter, prop_token_filter_add, prop
     }
 
 
+def results_to_df(results: dict, date='2024-07-01'):
+    # run summary statistics for vica results
+    df_re = pd.DataFrame(
+        columns=['entity', 'scenario_type', 'regression_type', 'value'])
+
+    for h in results.keys():
+        for i in results[h]['logistic_regression'].keys():
+            for j in results[h]['logistic_regression'][i].keys():
+                log_reg_eff = results[h]['logistic_regression'][i][j]
+                temp = pd.DataFrame(log_reg_eff, columns=['value'])
+                # lable and concat to df_re
+                temp['entity'] = h
+                temp['scenario_type'] = i
+                temp['regression_type'] = j
+                df_re = pd.concat([df_re, temp], axis=0)
+    df_re['Date'] = date
+    return df_re
+
+
 def run_stats(results: dict, date='2024-07-01'):
     # run summary statistics for vica results
     df_stats = pd.DataFrame()

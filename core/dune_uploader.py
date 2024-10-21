@@ -3,7 +3,7 @@ import os
 from dune_client.client import DuneClient
 
 
-def upload_data(csv_file_path, table_name="concentration", description="Measuring the Concentration of Power in the Collective"):
+def upload_data(csv_file_path, table_name, description="Measuring the Concentration of Power in the Collective"):
     # change the current working directory where .env file lives
     os.chdir("./")
     # load .env file
@@ -23,4 +23,5 @@ def upload_data(csv_file_path, table_name="concentration", description="Measurin
 
 
 if __name__ == "__main__":
-    upload_data()
+    upload_data(
+        '/Users/bilalbai/Documents/Git/op-vica/results/logit_effects.csv', 'logit_effects')
