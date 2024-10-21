@@ -4,7 +4,12 @@
 
 This repository is part of an Optimism Foundation Mission Request: **Measuring the Concentration of Power within the Collective**.
 
-A [Dune Dashboard](https://dune.com/op_project/op-concentration) has been created to visualize the results from VICA. It will be maintained and updated regularly.
+- [GitHub Repo](https://github.com/BilalBAI/op-vica)
+- [Dune Dashboard](https://dune.com/op_project/op-concentration)
+- [Project Report (VICA Methodology)](https://github.com/BilalBAI/op-vica/blob/main/docs/Project-Report.pdf)
+- [VICA-R-Functions Documentation](https://github.com/BilalBAI/op-vica/blob/main/docs/VICA-R-Functions-Documentation.pdf)
+- [VICA-R-Code Examples](https://github.com/BilalBAI/op-vica/blob/main/docs/VICA-R-Code-Examples.pdf)
+
 
 ## **Project Overview**
 The Voting Influence and Concentration Analysis (VICA) is a systematic approach to estimating the voting bloc's marginal influence on voting outcomes and measuring the degree of concentration in the voting system. This method, specifically tailored for the Optimism Collective, leverages logistic regression, counterfactual analysis, and data augmentation to deliver a robust and comprehensive understanding of each voting bloc's explicit and implicit influence on the voting process.
@@ -20,7 +25,7 @@ For more details, please read the project report.
 - All Python dependencies are listed in `requirements.txt` and can be installed using the command above.
 
 ### **R** (>= 4.4.1)
-This project also relies on R for certain statistical and graph-based computations. Ensure R version 4.4.1 or above is installed.
+This project also relies on R for certain statistical and graph-based computations. Ensure R version 4.4.1 or above is installed. The R functions have been wrapped in Python, but they can also be executed independently.
 
 To install required R packages:
 ```r
