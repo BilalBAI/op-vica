@@ -6,9 +6,9 @@ Please verify that you meet the qualifications for submitting at the above Tier
 - L2 recipient address: 0x04681fDADd6e8D561B998c7e37E7451057561091
 - Please list the members of your Alliance and link to any previous work: \
 [Bilal Bai](https://x.com/BilalBAIYue), Yujie Yang, \
+[op-vica](https://github.com/BilalBAI/op-vica) \ 
 [Portfolio Stress Test (Scenario Analysis)](https://github.com/BilalBAI/portfolio-stress-test) \
-[Generalizable Training Algorithms](https://github.com/BilalBAI/generalizable-training-algorithms) \
-[op-vica](https://github.com/BilalBAI/op-vica)
+[Generalizable Training Algorithms](https://github.com/BilalBAI/generalizable-training-algorithms)
 
 
 ### What makes your Alliance best-suited to execute this Mission?
@@ -25,11 +25,11 @@ Together, our team’s experience in governance metrics, concentration analysis,
 
 ### Please describe your proposed solution based on the above Solution Criteria (if applicable):
 
-The VICA model laid the groundwork for understanding how voting concentration affects governance stability, making it an ideal foundation for this project. By applying VICA’s influence metrics and concentration analysis, we can more accurately determine the votable supply required to minimize governance risks. Moreover, VICA’s counterfactual scenarios and sensitivity analysis have provided valuable insights into network behavior under different assumptions, which will inform our dynamic projections and cost of attack modeling.
+The VICA model laid the groundwork for understanding how voting concentration affects governance stability, making it an ideal foundation for this project. By applying VICA’s clustering algorithms, influence metrics and concentration analysis, we can more accurately determine the votable supply required to minimize governance risks. Moreover, VICA’s counterfactual scenarios and sensitivity analysis have provided valuable insights into network behavior under different assumptions, which will inform our dynamic projections and cost of attack modeling.
 
 ##### Solution Components
-   - **Risk Factor Identification**: Building on VICA’s clustering analysis, influence and concentration metrics, we will perform a thorough risk factor analysis to identify key variables that could impact the cost of attack and governance security. This includes understanding token liquidity, voter turnout, market volatility, and potential governance vulnerabilities. By analyzing these risk factors, we aim to capture potential points of failure or concentration that could threaten the system's integrity. We will alos consider the correlation across different factors.
-   - **Scenario Analysis**: We will extend VICA’s counterfactual capabilities to conduct scenario analyses that simulate various conditions of token distribution, market conditions, and governance participation rates. Each scenario will assess how changes in these factors impact the system's decentralization targets and the cost of attack. The goal is to create a flexible model that provides insight into how different scenarios affect votable supply targets and governance resilience.
+   - **Risk Factor Identification**: Building on VICA’s clustering analysis, influence and concentration metrics, we will perform a thorough risk factor analysis to identify key variables that could impact the cost of attack and governance security. This includes understanding token liquidity, voter turnout, market volatility, and potential governance vulnerabilities. By analyzing these risk factors, we aim to capture potential points of failure or concentration that could threaten the system's integrity. We will also consider the correlation across different factors.
+   - **Scenario Analysis**: We will extend VICA’s counterfactual capabilities to conduct scenario analysis that simulate various conditions of token distribution, market conditions, and governance participation rates. Each scenario will assess how changes in these factors impact the system's decentralization targets and the cost of attack. The goal is to create a flexible model that provides insight into how different scenarios affect votable supply targets and governance resilience.
    - **Stress Testing**: To ensure the model's robustness, we will conduct stress tests under extreme conditions, such as sudden changes in token liquidity, sharp declines in voter turnout, or large-scale token concentration in few hands. These tests will provide insights into the model's ability to handle shocks and sustain a high cost of attack even under adverse conditions. Stress tests will enable the Foundation to gauge the system’s resilience against governance risks and adjust targets accordingly.
 
 
@@ -37,10 +37,10 @@ The VICA model laid the groundwork for understanding how voting concentration af
 
 Execution Plan:
 
-Stage 1: Preparatory Research and Data Collection
-Stage 2: Risk Factors Identification and Initial Cost of Attack Analysis
-Stage 3: Model Development and Sensitivity Analysis
-Stage 4: Final Reporting and Adaptive Model Delivery
+- Stage 1: Preparatory Research and Data Collection
+- Stage 2: Risk Factors Identification and Initial Cost of Attack Analysis
+- Stage 3: Model Development and Sensitivity Analysis
+- Stage 4: Final Reporting and Adaptive Model Delivery
 
 ### Please define the critical milestone(s) that should be used to determine whether you’ve executed on this proposal:
 
