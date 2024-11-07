@@ -1,12 +1,11 @@
 # Foundation Mission (RFP) Application
-Please verify that you meet the qualifications for submitting at the above Tier
 
 - Alliance Lead: Bilal
 - Contact info: bilal.yue.bai@gmail.com
 - L2 recipient address: 0x04681fDADd6e8D561B998c7e37E7451057561091
 - Please list the members of your Alliance and link to any previous work: \
 [Bilal Bai](https://x.com/BilalBAIYue), Yujie Yang, \
-[op-vica](https://github.com/BilalBAI/op-vica) \ 
+[op-vica](https://github.com/BilalBAI/op-vica) \
 [Portfolio Stress Test (Scenario Analysis)](https://github.com/BilalBAI/portfolio-stress-test) \
 [Generalizable Training Algorithms](https://github.com/BilalBAI/generalizable-training-algorithms)
 
